@@ -34,7 +34,7 @@ Once the program is compiled, you can run it with the following command:
 
 ## Contributing
 
-Contributions to this repository are welcome! If you have a C program that you would like to add, please submit a pull request. All contributions must be licensed under the GPL-3.0 license.
+Contributions to this repository are welcome! If you have a C program that you would like to add, please submit a pull request. See CONTRIBUTING[./CONTRIBUTING.md] for more detail. All contributions must be licensed under the GPL-3.0 license.
 
 ## License
 
