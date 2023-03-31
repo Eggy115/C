@@ -16,7 +16,7 @@ The C Repository contains a variety of C programs that can be used for education
 
 ## Installation
 
-To use any of the programs in this repository, you will need a C compiler installed on your system. You can download the GNU C Compiler (GCC) from the official website: https://gcc.gnu.org/
+To use any of the programs in this repository, you will need a C compiler installed on your system. You can download the GNU C Compiler (GCC) from the official website: https://gcc.gnu.org/. Once you have installed a C compiler, you can clone the repository, download scripts individually or even just copy and paste the code.
 
 ## Usage
 
