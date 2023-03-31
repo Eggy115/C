@@ -38,4 +38,4 @@ Contributions to this repository are welcome! If you have a C program that you w
 
 ## License
 
-All programs in this repository are licensed under the GPL-3.0 license. Please see the LICENSE file for more information.
+All programs in this repository are licensed under the GPL-3.0 license. Please see the [LICENSE](./LICENSE) file for more information.
