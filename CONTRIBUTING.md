@@ -1,0 +1,2 @@
+- program must work
+- has to explain what it does
